@@ -173,6 +173,15 @@
 </li>
 </ul>
 <ul>
+<li><span style="font-family: monospace; font-weight: bold; font-size: 1.2em; color: #222222; background-color: #B2E5FC; border-radius: 4px; padding: 4px;">accessibility</span>
+  <ul>
+    <li><b>Hex code:</b> #2F1D46</li>
+    <li><b>Short Description:</b> improve content compatibility with assistive technology as well as unassisted access </li>
+    <li><b>Long Description:</b> Issue used to ask a question or draw attention to an accessibility issue that needs to be addressed in the lesson content or across other Carpentries resources . </li>
+ </ul>
+</li>
+</ul>
+<ul>
 <li><span style="font-family: monospace; font-weight: bold; font-size: 1.2em; color: #222222; background-color: #CCCCCC; border-radius: 4px; padding: 4px;">invalid</span>
   <ul>
     <li><b>Hex code:</b> #CCCCCC</li>
